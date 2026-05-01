@@ -1,0 +1,16 @@
+{
+  "name": "housecleaningrockville-com",
+  "version": "1.0.0",
+  "description": "Rockville house cleaning for recurring maid service, deep cleaning, move-in and move-out cleaning, kitchen cleaning, bathroom cleaning, and apartment cleaning.",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^4.16.18"
+  },
+  "devDependencies": {}
+}
